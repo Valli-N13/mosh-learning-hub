@@ -53,7 +53,6 @@ This is an independent concept project and is not affiliated with or endorsed by
 
 - Expanded Tutorial Library: Add more verified Code with Mosh tutorials across programming languages and development topics.
 - Creator Content Integration: Include relevant updates, new course releases, and educational content from Mosh Hamedani's official channels.
-- Personalized Learning Paths: Help learners discover suitable Mosh tutorials based on their interests, experience levels, and learning goals.
 - Learning Progress Tracking: Allow users to bookmark tutorials, track completed lessons, and continue learning where they left off.
 - Community Engagement: Introduce learner discussions, project showcases, and opportunities to share progress inspired by Mosh's tutorials.
 - Enhanced Accessibility: Improve keyboard navigation, accessibility, and the overall learning experience across devices.
